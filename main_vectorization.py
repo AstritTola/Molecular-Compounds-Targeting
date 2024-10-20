@@ -7,6 +7,8 @@ from rdkit import Chem
 import dgl
 import matplotlib.pyplot as plt
 
+from multi-persistence_diagram_betti0_extraction import *
+
 
 name = '2D'
 
